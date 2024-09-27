@@ -1,15 +1,21 @@
 
 # O futuro começa agora
 
-[[Rede Arte]] é uma plataforma [[Open Source|livre]]
-* rede social para oferta e busca de serviços. 
-* vitrine para serviços especializados
-* [[Algoritmos de Recomendação|Algoritmos de recomendação]] e [[Algoritmos de Mapeamento de Oferta|mapeamento de oferta]] e [[Algoritmos de Mapeamento de Demanda|demanda]], e [[indicadores de desempenho]]
-* sem fins lucrativos, não cobra comissão e auxilia na burocracia, incentivando o livre mercado, sendo uma alternativa a outras plataformas de serviço sob demanda.
+[[Rede Arte]] é uma plataforma [[web3]] [[Open Source|livre]]
 
-# Fábrica de Sonhos
+Rede social personalizada pelos interesses dos membros de suas comunidades
 
-[[Arte Longa]] é consultoria de marca, organizada na [[Rede Arte]]
-* consultoria de marca, produto, identidade visual, marketing digital, e presença nas redes sociais
-* consultoria de realização de sonhos
-	* oferece [[pacotes de serviços]] personalizados, utilizando os algoritmos da [[Rede Arte]] para encontrar equipes especializadas pelo melhor preço
+Conteúdo intencional e educativo, baseado em [[Referências|evidência]]
+
+> [!example]- Veja alguns exemplos
+> [[Rede Com Ciência]] comunicação científica
+> [[Autocuidado Com Ciência]] saúde mental e bem-estar
+> [[Rede Arte]] futuro da web e da tecnologia
+> [[Sapiens]] preservação e restauração o meio ambiente
+> [[Arte Longa]] agência livre de serviços especializados
+> [[Lar chico]] comportamento e bem-estar animal
+
+[[Comunidades|Encontre sua comunidade]]
+[[Crie a sua comunidade]]
+
+
